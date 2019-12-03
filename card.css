@@ -1,5 +1,6 @@
 ﻿
-.my4 { font-size: xx-large; }
+.my4 { font-size: xx-large;
+color: ##008b8b; }
 
 /* モーダルCSS */ 
 .modal-wrapper {
