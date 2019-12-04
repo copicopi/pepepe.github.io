@@ -11,7 +11,7 @@ color: #cccccc;
   background-color: rgba(250, 235, 205, 0.85);
 }
 h01 {
-  padding: 0.5em;/*文字周りの余白*/
+  padding: 5px;/*文字周りの余白*/
   color: #A52A2A;/*文字色*/
   font-size: 80%;
   background: #ECDE99;/*背景色*/
