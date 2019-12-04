@@ -13,7 +13,6 @@ color: #cccccc;
 h01 {
   padding: 5px;/*文字周りの余白*/
   color: #A52A2A;/*文字色*/
-  font-size: 80%;
   background: #ECDE99;/*背景色*/
   border-left: solid 8px #A52A2A;/*左線（実線 太さ 色）*/
 }
