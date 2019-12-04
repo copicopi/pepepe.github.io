@@ -1,3 +1,10 @@
 .my6 { font-size: large;
 color: #cccccc;
 }
+.centerBox{
+  border:0;
+  width:65%;
+  height: 100%;
+　margin: auto;
+  background-color: #FBEDCD;
+}
