@@ -10,9 +10,18 @@ color: #cccccc;
   margin-left: auto;
   background-color: rgba(250, 235, 205, 0.85);
 }
-h01 {
-  padding: 5px;/*文字周りの余白*/
-  color: #A52A2A;/*文字色*/
+.box-in{
+  padding: 1em 1em;
+  margin-left: auto;
+  width: 280px;
+  color: #474747;
   background: #ECDE99;/*背景色*/
-  border-left: solid 8px #A52A2A;/*左線（実線 太さ 色）*/
+  border-left: double 18px #A52A2A;
+  font-size: x-small;
+    
 }
+.box-in p {
+    margin: 0; 
+    padding: 0;
+}
+
