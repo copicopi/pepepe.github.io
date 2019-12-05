@@ -25,3 +25,13 @@ color: #cccccc;
     padding: 0;
 }
 
+.iroiro-box {
+max-width: 45%;
+height: auto;
+border: 0
+margin: 2px 2px 4px 0px;
+padding: 1%;
+font-size: 70%;
+line-height:20px;
+float:left;  
+}
