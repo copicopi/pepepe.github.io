@@ -2,10 +2,9 @@
 .iroiro-box {
 max-width: 45%;
 height: auto;
-margin: 0;
+margin: 0 auto;
 padding: 0;
 line-height:20px;
-float:left; 
 position:relative;
 }
 .on-1 img {
