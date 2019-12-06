@@ -1,0 +1,15 @@
+/*-----20191206-----*/
+.iroiro-box {
+max-width: 45%;
+height: auto;
+margin: 0;
+padding: 0;
+line-height:20px;
+float:left; 
+position:relative;
+}
+.on-1 img {
+    position: absolute;
+    top: 0;
+    right: 0;
+  }  
