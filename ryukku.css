@@ -17,8 +17,6 @@
 }
 
 .balloon1 .faceicon img{
-  position: absolute;
-　bottom: -10px;
   width: 100%;
   height: auto;
   border: solid 4px #A52A2A;
