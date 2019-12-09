@@ -37,11 +37,11 @@ color: ##008b8b; }
 .modal-wrapper .modal-window {
   box-sizing: border-box;
   display: inline-block;
-  z-index: 20;
+ z-index: 20;
   position: relative;
-  width: 100%;
+  width: 85%;
   max-width: 400px;
-    padding: 0;
+  padding: 0;
   vertical-align: middle
 }
 
