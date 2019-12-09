@@ -41,7 +41,8 @@ color: ##008b8b; }
   position: relative;
   width: 85%;
   max-width: 400px;
-  padding: 0;
+    padding: 15px 15px 10px;
+
   border-radius: 2px;
   background: #fff;
   box-shadow: 0 0 30px rgba(0, 0, 0, .6);
@@ -66,8 +67,8 @@ color: ##008b8b; }
 .modal-wrapper .modal-close {
   z-index: 20;
   position: absolute;
-  top: 0;
-  right: 0;
+  top: 2px;
+  right: 2px;
   width: 35px;
   color: #95979c!important;
   font-size: 20px;
