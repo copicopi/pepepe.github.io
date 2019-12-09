@@ -4,7 +4,7 @@
 
 /*-----吹き出し-----*/
 .balloon1 {
-  width: 100%;
+  width: 95%;
   margin: 0.5em 0;
   overflow: hidden;
 }
@@ -19,9 +19,9 @@
 .balloon1 .faceicon img{
   width: 100%;
   height: auto;
-  border: solid 4px #001E43;
+  border: solid 4px #A52A2A;
   border-radius: 50%;
-  box-shadow:2px 2px 2px #F2F3E5;
+  box-shadow:2px 2px 2px #FD2D2D2;
     margin: 18px 0 2em 1px;
 }
 
@@ -35,7 +35,7 @@
   padding: 15px;
   background: #C8D0D6;
   border-radius: 30px;
-  box-shadow:2px 2px 2px #F2F3E5;
+  box-shadow:2px 2px 2px #Fcdcdcd;
 }
 .huki:before {  
   content: "";
@@ -45,9 +45,9 @@
   width: 13px;
   height: 12px;
   bottom: 33px;
-  background: #C8D0D6;
+  background: #ECDE99;
   border-radius: 50%;
-  box-shadow:2px 2px 2px #F2F3E5;
+  box-shadow:2px 2px 2px #000000;
 }
 
 .huki:after {
@@ -57,9 +57,9 @@
   width: 20px;
   height: 18px;
   bottom: 43px;
-  background: #C8D0D6;
+  background: #ECDE99;
   border-radius: 50%;
-  box-shadow:2px 2px 2px #F2F3E5;
+  box-shadow:2px 2px 2px #000000;
 }
 .huki p {
   margin: 0; 
