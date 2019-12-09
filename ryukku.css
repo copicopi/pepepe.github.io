@@ -17,6 +17,8 @@
 }
 
 .balloon1 .faceicon img{
+  position: absolute;
+　bottom: -10px;
   width: 100%;
   height: auto;
   border: solid 4px #A52A2A;
@@ -44,10 +46,10 @@
   left: -38px;
   width: 12px;
   height: 12px;
-  bottom: 28px;
+  bottom: 27px;
   background: #ECDE99;
   border-radius: 50%;
-  box-shadow:2px 2px 2px #000000;
+  box-shadow:2px 2px 2px #cdcdcd;
 }
 
 .huki:after {
@@ -56,10 +58,10 @@
   left: -24px;
   width: 19px;
   height: 18px;
-  bottom: 38px;
+  bottom: 37px;
   background: #ECDE99;
   border-radius: 50%;
-  box-shadow:2px 2px 2px #000000;
+  box-shadow:2px 2px 2px #cdcdcd;
 }
 .huki p {
   margin: 0; 
