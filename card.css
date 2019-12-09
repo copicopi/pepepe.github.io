@@ -39,7 +39,7 @@ color: ##008b8b; }
   display: inline-block;
   z-index: 20;
   position: relative;
-  width: 85%;
+  width: 100%;
   max-width: 400px;
    margin: 0;
     padding: 0;
