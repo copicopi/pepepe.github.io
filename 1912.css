@@ -1,3 +1,18 @@
+/*-----リンク-----*/
+.my1 a {color:#000000}
+.my1 a:vlink {color:#000000}
+.my1 a {text-decoration: none;}
+.my1 a:hover { text-decoration:underline dotted; }
+
+.my2 a {color:#000000}
+.my2 a:vlink {color:#000000}
+.my2 a {text-decoration: none;}
+.my2 a:hover {background-color:#EBEBEB;}
+/*-----リンク-----*/
+
+
+
+
 /*-----20191206-----*/
 .iroiro-box {
 max-width: 40%;
