@@ -8,10 +8,6 @@
 .my2 a:vlink {color:#000000}
 .my2 a {text-decoration: none;}
 .my2 a:hover {background-color:#a9a9a9;}
-/*-----リンク-----*/
-
-
-
 
 /*-----20191206-----*/
 .iroiro-box {
@@ -27,3 +23,15 @@ position:relative;
     top: 0;
     right: 0;
   }  
+
+/*-----20191206-----*/
+.img-1 img {
+width:180px; height:160px;
+object-fit:none;
+object-position:0% 10%;
+ }   
+.img-2 img {
+width:70px; height:60px;
+object-fit:none;
+object-position:67% 26%;
+}
