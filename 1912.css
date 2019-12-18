@@ -25,20 +25,14 @@ position:relative;
   }  
 
 /*-----20191206-----*/
-.95-box {
-max-width: 95%;
-height: auto;
-margin: 0 auto;
-padding: 0;
-}
 
-.img-1 img {
-width:180px; height:160px;
+.img-a img {
+width:90px; height:100px;
 object-fit:none;
-object-position:0% 10%;
+object-position:38% 10%;
  }   
-.img-2 img {
-width:70px; height:60px;
+.img-b img {
+width:45px; height:45px;
 object-fit:none;
 object-position:67% 26%;
 }
