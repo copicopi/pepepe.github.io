@@ -18,6 +18,11 @@
 
 /*-----20191206-----*/
 
+.on-1 img {  
+ position: absolute;
+ top: 0;  
+ right: 0;
+  } 
 .img-a img {
 width:90px; height:100px;
 object-fit:none;
