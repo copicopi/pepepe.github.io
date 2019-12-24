@@ -14,8 +14,38 @@
 .my3 a:hover { text-decoration:underline dotted; }
 .my3 a {text-decoration: none;}
 
- 
+ /*-----20191224-----*/
+.side-container{
+  display:flex;	
+  align-content: stretch;
+  width: 310px;
+}
+.item01 {
+flex-basis:39%;
+}
+.item02 {
+flex-basis:61%;
+padding: 0 8px;
+width: 190px;
+word-wrap: break-word;
+line-height: 20px;
+font-size: 0.8em;
+}
+.af-r img{
+  width: 100%;
+  height: auto;
+}
+.af a {color:#000000}
+.af a:vlink {color:#000000}
+.af a:hover { text-decoration:underline dotted; }
+.af a {text-decoration: none;}
 
+.af::before {
+    content:"\f08e";
+    font-family: FontAwesome;
+    font-size: 1em;
+    font-weight:bold;
+}
 /*-----20191206-----*/
 .iroiro-box {
 max-width: 40%;
