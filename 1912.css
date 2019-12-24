@@ -14,20 +14,7 @@
 .my3 a:hover { text-decoration:underline dotted; }
 .my3 a {text-decoration: none;}
 
-/*-----20191206-----*/
-.iroiro-box {
-max-width: 40%;
-height: auto;
-margin: 0 auto;
-padding: 0;
-line-height:20px;
-position:relative;
-}
-.on-1 img {
-    position: absolute;
-    top: 0;
-    right: 0;
-  }  
+ 
 
 /*-----20191206-----*/
 
