@@ -18,7 +18,7 @@
 .side-container{
   display:flex;	
   align-content: stretch;
-  width: 280px;
+  width: 100%;
 }
 .item01 {
 flex-basis:39%;
