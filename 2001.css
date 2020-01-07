@@ -1,0 +1,16 @@
+.box0107 {
+max-width: 100%;
+height: auto;
+margin: 0 auto;
+word-wrap: break-word;   
+}
+
+.sashie img {
+  float:right;
+  max-width: 50%;
+  margin: 0 0.5em;
+  }
+
+p.text01 { 
+  font-size: 80%; 
+}
