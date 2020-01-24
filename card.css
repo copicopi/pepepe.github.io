@@ -103,7 +103,7 @@
 .my4 a:vlink {color:#c0c0c0}
 .my4 a:hover{color:#b0c4de}
 .my4 a {text-decoration: none;}
-.my4 a {font-size: 70%;}
+.my4 {font-size: 70%;}
 
 /*-----table版----*/
 table.table-1 {
