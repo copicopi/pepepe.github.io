@@ -1,6 +1,5 @@
 /*-----下の方に my4 がダブってる…必要な時に修正する-----*/
-.my4 { font-size: xx-large;
-color: ##008b8b; }
+
 
 /* モーダルCSS */ 
 .modal-wrapper {
@@ -78,88 +77,9 @@ color: ##008b8b; }
 .modal-wrapper .modal-close:hover {
   color: #2b2e38!important
 }
+/*-----旧BOX---*/
+/*-----旧BOXと共通---*/
 
-/*-----マイカード　A----*/
-.box_wrap {
-    max-width: 100%;
-    height:auto;
-    border:1px solid #000;
-}
-.clearfix:after {
-  display: block;
-  clear: both;
-  content: "";
-}
-.card-img img {
-max-width: 100%;
-height: auto;
-}
-
-.mycard-1 {
-max-width: 45%;
-height: auto;
-border: 2px solid #cccccc; 
-border-radius: 0px 0px 15px 15px;
-margin: 2px 2px 4px 0px;
-padding: 1%;
-font-size: 70%;
-line-height:20px;
-float:left;  
-}
-.mycard-2 {
-max-width: 45%;
-height: auto;
-border: 2px solid #cccccc; 
-border-radius: 0px 0px 15px 15px;
-margin: 2px 0px 4px 4px;
-padding: 1%;
-font-size: 70%;
-line-height:20px;
-float:left;  
-}
-/*-----マイカードB---*/
-
-.rwdBox{
-    border:3px solid red;
-    margin:2px 2px 2px 2px;
-}
-.leftTop{
-    padding:5px;
-    text-align:center;
-    width:98%;
-}
-.box{
- display: flex;
-}
-@media screen and (max-width: 780px) {
- .box{
-  flex-direction: column;
- }
- .icon-img1 img {
- width: 60%;
-}
- .icon-img2 img {
- width: 80%;
- .my4 a {font-size: 70%;}
-}
-}
-@media screen and (max-width: 780px) {
-.order1 {
-  order: 1;
-}
-.order2 {
-  order: 2;
-}
-.order3 {
-  order: 3;
-}
-.order4 {
-  order: 4;
-}
-.order5 {
-  order: 5;
-}
-}
 .button {
     width: 85%;
     font-size: 85%;
@@ -173,5 +93,60 @@ float:left;
     border-radius:10px;
   box-shadow:2px 2px 2px #cdcdcd;
 }
+ .icon-img1 img {
+ width: 60%;
+}
+ .icon-img2 img {
+ width: 80%;
+}
+.my4 a {color:#c0c0c0}
+.my4 a:vlink {color:#c0c0c0}
+.my4 a:hover{color:#b0c4de}
+.my4 a {text-decoration: none;}
+.my4 a {font-size: 70%;}
 
-/*-----マイカード10/23----*/
+/*-----table版----*/
+table.table-1 {
+  margin: 0 auto;
+}
+table.table-1 th,
+table.table-1 td{
+  border: 0;
+  padding: 0.5em;
+    width: 50%;
+  max-width: 280px;
+}
+@media (max-width: 650px) {
+    table.table-1 th,
+    table.table-1 td{
+      display: block;
+    width: 95%;
+      padding: 0;
+    }
+}
+
+
+
+
+
+.side-container{
+  display:flex;    
+  align-content: stretch;
+  width: 100%;
+}
+.card-p {
+width: 45%;
+padding: 0 8px;
+border: 2px solid #cccccc; 
+border-radius: 0px 0px 15px 15px;
+margin: 10px 2px 4px 0px;
+word-wrap: break-word;
+line-height: 20px;
+font-size: 0.8em;
+}
+.p-img img{
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+  padding: 5px 0 0;
+}
