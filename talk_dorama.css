@@ -10,3 +10,61 @@ word-wrap: break-word;
 line-height: 20px;
 font-size: 0.8em;
 }
+/*-----配置-----*/
+img.name1 {
+width:80px; height:80px;
+object-fit:none;
+object-position:20% 5%;
+}
+img.name2 {
+width:80px; height:80px;
+object-fit:none;
+object-position:80% 10%;
+}
+img.name3 {
+width:80px; height:80px;
+object-fit:none;
+object-position:85% 20%;
+}
+img.name4 {
+width:80px; height:80px;
+object-fit:none;
+object-position:25% 20%;
+}
+img.name5 {
+width:80px; height:80px;
+object-fit:none;
+object-position:90% 5%;
+}
+img.name6 {
+width:80px; height:80px;
+object-fit:none;
+object-position:100% 30%;
+}
+img.name7 {
+width:80px; height:80px;
+object-fit:none;
+object-position:20% 40%;
+}
+img.name8 {
+width:80px; height:80px;
+object-fit:none;
+object-position:70% 5%;
+}
+img.name9 {
+width:80px; height:80px;
+object-fit:none;
+object-position:70% 10%;
+}
+img.name10 {
+width:80px; height:80px;
+object-fit:none;
+object-position:60% 15%;
+}
+img.name11 {
+width:80px; height:80px;
+object-fit:none;
+object-position:50% 10%;
+}
+
+/*-----配置-----*/
