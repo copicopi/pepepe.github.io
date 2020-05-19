@@ -73,6 +73,16 @@ word-wrap: break-word;
 line-height: 20px;
 font-size: 0.8em;
 }
+.item03 {
+flex-basis:20%;
+}
+.item04 {
+flex-basis:80%;
+padding: 0 8px;
+word-wrap: break-word;
+line-height: 20px;
+font-size: 0.8em;
+}
 /*-----配置-----*/
 img.name1 {
 width:80px; height:80px;
