@@ -108,3 +108,34 @@ table {
 .modal-wrapper .modal-close:hover {
   color: #2b2e38!important
 }
+/*-----Box入れ替え-----*/
+.box-AB {
+ display: flex;
+}
+@media screen and (max-width: 768px) {
+ .box-AB {
+  flex-direction: column;
+ }
+}
+
+@media screen and (max-width: 768px) {
+.order1 {
+  order: 1;
+}
+.order2 {
+  order: 2;
+}
+.order3 {
+  order: 3;
+}
+.order4 {
+  order: 4;
+}
+.order5 {
+  order: 5;
+}
+}
+
+
+
+
