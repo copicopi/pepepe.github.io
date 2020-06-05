@@ -122,14 +122,14 @@ table {
 .order1 {
   order: 1;
 }
-.order4 {
-  order: 2;
+.order2 {
+  order: 4;
 }
 .order3 {
   order: 3;
 }
-.order2 {
-  order: 4;
+.order4 {
+  order: 2;
 }
 .order5 {
   order: 5;
